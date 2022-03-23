@@ -80,12 +80,14 @@
 }
 .app {
 	&-functional {
-		margin: 0px 0px 50px 0px;
+		margin: 0px 0px 120px 0px;
+		height: 100vh;
 		display: flex;
 		justify-content: center;
 		flex-direction: column;
 		align-items: center;
 		@media (max-width: 1024px) {
+			height: auto;
 		}
 		&-title {
 			text-shadow: rgba(0, 0, 0, 0.4) 2px 0 16px;
