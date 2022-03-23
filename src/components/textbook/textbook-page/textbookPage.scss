@@ -19,9 +19,11 @@
 		gap: 25px;
 
 		display: grid;
-		grid-template-columns: repeat(3, 2fr);
-		grid-template-areas: "AAA BBB";
+		grid-template-columns: repeat(4, 2fr);
 		justify-items: center;
+		@media (max-width: 1400px) {
+			grid-template-columns: repeat(3, 2fr);
+		}
 		@media (max-width: 1150px) {
 			grid-template-columns: repeat(2, 2fr);
 		}
