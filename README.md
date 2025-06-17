@@ -6,7 +6,7 @@ Application for learning English words
 https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md
 
 #### Authors:
-- [Константин @ConstantineTU](https://github.com/ConstantineTU) - Team Lead, Frontend developer
+- [Константин @ConstantineTU](https://github.com/ConstantinPR0) - Team Lead, Frontend developer
 - [Дарья @dariija](https://github.com/dariija) - Frontend developer
 - [Антон @soll1992](https://github.com/soll1992) - Frontend developer
 
